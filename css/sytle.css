@@ -1,0 +1,17 @@
+.navbar-brand{
+    font-size: 30px;
+    font-weight: bolder;
+    color : rgb(255, 0, 0);
+    
+}
+.nav-link {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.jumbotron {
+background-image: url(assets/images/web-development-programming-resized.jpg);
+background-size:cover;
+height: 865px;
+width: 100%;
+}
